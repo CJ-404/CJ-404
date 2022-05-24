@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer science & software engineering.
 - 🌱 I’m currently learning computer science bachelor degree.(year 1)
 - 💞️ I’m looking to collaborate on html,css,php,java script,software develping.
+- ✨ c , c++ are my favorite programming languages [ yet ].
 - 📫 How to reach me - cj.ptsz@yahoo.com-email me.
 
 <!---

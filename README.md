@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @CJ-404
 - 👀 I’m interested in computer science & software engineering.
-- 🌱 I’m currently learning computer science bachelor degree.(year 2)
-- 💞️ I’m looking to collaborate on html,css,php,java script,software develping.
+- 🌱 I’m currently learning computer science bachelor degree.(3rd year)
 - ✨ c , c++ are my favorite programming languages.
-- 🎉 Getting into scala , java and python.
+- 🎉 Getting into java and python.
 - 📫 How to reach me - cj.ptsz@yahoo.com-email me.
 
 <!---

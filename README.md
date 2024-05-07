@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CJ-404
-- 👀 I’m interested in computer science & software engineering.
-- 🌱 I’m currently learning computer science bachelor degree.(3rd year)
-- ✨ c , c++ are my favorite programming languages.
-- 🎉 Getting into java and python.
+- 👋 Hi, I’m @CJ-404 - charith jayarangana
+- 🌱 I’m currently learning computer science bachelor degree.(4th year)
+- 🎉 Learning...
 - 📫 How to reach me - cj.ptsz@yahoo.com-email me.
 
 <!---

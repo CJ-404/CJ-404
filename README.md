@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CJ-404 - charith jayarangana
-- 🌱 I’m currently learning computer science bachelor degree.(4th year)
+- 🌱 I’m currently doing computer science(hons) degree.
 - 🎉 Learning...
 - 📫 How to reach me - cj.ptsz@yahoo.com-email me.
 
